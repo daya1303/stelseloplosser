@@ -1,0 +1,15 @@
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\bin\Debug\net6.0\stelselOplosser.exe
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\bin\Debug\net6.0\stelselOplosser.deps.json
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\bin\Debug\net6.0\stelselOplosser.runtimeconfig.json
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\bin\Debug\net6.0\stelselOplosser.dll
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\bin\Debug\net6.0\stelselOplosser.pdb
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\stelselOplosser.csproj.AssemblyReference.cache
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\stelselOplosser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\stelselOplosser.AssemblyInfoInputs.cache
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\stelselOplosser.AssemblyInfo.cs
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\stelselOplosser.csproj.CoreCompileInputs.cache
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\stelselOplosser.dll
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\refint\stelselOplosser.dll
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\stelselOplosser.pdb
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\stelselOplosser.genruntimeconfig.cache
+C:\Users\daya\source\repos\stelselOplosser\stelselOplosser\obj\Debug\net6.0\ref\stelselOplosser.dll
